@@ -1,0 +1,19 @@
+Title: Star Wars Trilogy Arcade v15.112
+Description: My term project is a 3D game that begins with the player in an X-Wing in a battle against tie fighters. The player will have to shoot down tie fighters  
+by moving the mouse over the enemy objects. If the tie fighters pass the player, then they will some of their health. When they lose all their health, it's
+game over!
+
+How to run the project: The python file, main.py, should run all of the other subsequent py files in the folder. Since there are also audio wav files, 
+3d blender obj, and mtl files, those must be in the same folder in order for the game to run. Upon running the game, it will take some time to load in 
+all the assets because the 3d object is a very complex file and will take roughly a minute or so. If I'm right in my calculations, it should take rougly
+42 seconds, but that may vary. If it looks like the python file is going to crash, don't worry!. That is really just the default message for when the 
+game is loading the assets.
+
+Libaries needed: You will need the following:
+python 3.7
+pyopengl  
+pygame
+
+There are curretly no shortcuts avaiable.
+
+youtube link: https://www.youtube.com/watch?v=7pGStQU71Tw
